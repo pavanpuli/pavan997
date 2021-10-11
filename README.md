@@ -9,12 +9,12 @@ A passionate self taught full stack developer from Nepal .
 
 **Connect with me :**
 
-<a href="https://www.linkedin.com/in/arjungautam1/" target="_blank">
+<a href="https://www.linkedin.com/in/naga-pavan-kumar-chandupatla-98a436154/" target="_blank">
   <img align="left" alt="Pavan | LinkedIn" width="30px"  src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/linkedin.svg" />
 </a>
-<a href="https://twitter.com/Laserarjun876" target="_blank">
+<!-- <a href="https://twitter.com/Laserarjun876" target="_blank">
   <img align="left" alt="Arjun | Twitter" width="30px" src="https://raw.githubusercontent.com/arjun-sudo/arjun-sudo/master/assets/twitter.webp" />
-</a>
+</a> -->
 
 
 <br>
