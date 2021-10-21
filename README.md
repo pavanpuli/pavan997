@@ -1,6 +1,6 @@
 ### Hi there , I'm [Pavan !]👋
 
-A passionate self taught full stack developer from Nepal .
+A passionate  full stack developer from Masai school .
 
 - 🔭 I’m currently working on something cool .
 - 🌱 I’m currently learning React, JavaScript, Mongodb, HTML, CSS, Redux
