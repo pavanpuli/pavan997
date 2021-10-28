@@ -4,7 +4,7 @@ A passionate  full stack developer from Masai school .
 
 - 🔭 I’m currently working on something cool .
 - 🌱 I’m currently learning React, JavaScript, Mongodb, HTML, CSS, Redux
-- 💬 Ask me about anything (https://github.com/pavan997) 
+- 💬 Ask me about anything on 9951407063 
 - 📫 How to reach me: pavanc1997@gmail.com
 
 **Connect with me :**
