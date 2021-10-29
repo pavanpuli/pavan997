@@ -1,11 +1,8 @@
-### Hi there , I'm [Pavan !]👋
+### Hi there, I am CH N Pavan Kumar 👋
 
-A passionate  full stack developer from Masai school .
+- 😄 Looking for an opportunity as a MERN Stack developer to work in a company where I can work on exciting technologies and also grow as a web developer.
+- ⚡ Tech stacks I know are React, Javascript, Material-UI, CSS, HTML, Express js, Node.js, MongoDB, and Data Structures and Algorithm.
 
-- 🔭 I’m currently working on something cool .
-- 🌱 I’m currently learning React, JavaScript, Mongodb, HTML, CSS, Redux
-- 💬 Ask me about anything on 9951407063 
-- 📫 How to reach me: pavanc1997@gmail.com
 
 **Connect with me :**
 
